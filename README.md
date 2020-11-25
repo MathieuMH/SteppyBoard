@@ -6,10 +6,19 @@ StepCraft is not the cheapest brand. But overal their products are good. But ove
 The object is to design an open source board that can be used by all StepCraft user with a D-series unit. Preferly a board that can easily be assembled by a hobbiest at home.
 
 ## Features
+* Dual Y motor (similar to performance kit)
+* Encoder inputs for Y motors
+* Multi axis support (X, Y1, Y1, Z, A, B)
+* Relay outputs for vacuum and spindle
+* Multiple PWM outputs for laser, spindle RPM, ...
+* DC/DC to generate 12V output for laser
+* LED strip support for lighting
 
 ## Schematic
+tbc 
 
 ## Info
+tbc
 
 ## License
 MIT license
