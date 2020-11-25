@@ -13,6 +13,7 @@ The object is to design an open source board that can be used by all StepCraft u
 * Multiple PWM outputs for laser, spindle RPM, ...
 * DC/DC to generate 12V output for laser
 * LED strip support for lighting
+* LTP parellel port input for control (for example UCCNC -> UC100).
 
 ## Schematic
 tbc 
